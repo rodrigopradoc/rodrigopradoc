@@ -11,7 +11,7 @@ body{
 	<h1 align="center">Hola mundo 👋 </h1>
 	<h3 align="center">Próximamente... </h3>
 </div>
-
+<body>
 <!--
 **rodrigopradoc/rodrigopradoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -27,7 +27,7 @@ Here are some ideas to get you started:-->
 - 📫 Mi correo personal es: rodrigo070998.2@gmail.com
 <!--- 😄 Pronouns: ...-->
 <!--- ⚡ Fun fact: ...-->
-
+</body>
 <script>
 const root = document.documentElement;
  
