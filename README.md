@@ -1,5 +1,4 @@
 
-
 <!--
 **rodrigopradoc/rodrigopradoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:-->
 <li>🌱 Actualmente estoy aprendiendo TypeScript, React y Next.js
 <li>📫 Mi correo personal es: rodrigo070998.2@gmail.com
 </ul>
+
