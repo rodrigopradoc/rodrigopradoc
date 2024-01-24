@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 <img align="right" src="https://media.giphy.com/media/Dh5q0sShxgp13DwrvG/giphy.gif" width="400"/>
 <h2>⚡️ Sobre mí</h2>
 <ul>
-<li>🌱 Actualmente estoy aprendiendo TypeScript, React y Next.js
+<li>🌱 Actualmente estoy aprendiendo TypeScript, React y Next.js. Logré aprender Angular.
 <li>📫 Mi correo personal es: rodrigo070998.2@gmail.com
 </ul>
 
